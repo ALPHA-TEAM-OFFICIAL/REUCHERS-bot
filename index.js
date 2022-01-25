@@ -1393,3 +1393,4 @@ console.log(color(time_error, "yellow"), color("[ ERRO ]", "aqua"), color(e, 're
 })
 }
 starts()
+

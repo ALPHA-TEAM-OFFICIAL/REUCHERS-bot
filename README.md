@@ -17,8 +17,8 @@ Um bot simples para whatsapp que está em desenvolvimento.
 1 Novo Comando
 - linkgp ( Manda o Link Do Grupo )
     
-- Antilink Arrumado
-- Promover Tirado Para Arrumar
+- Antilink 
+- logo
 - Rebaixar Tirado Para Arrumar
 - Fazer Figurinhas Arrumado
 - Renomear Figurinhas Arrumado

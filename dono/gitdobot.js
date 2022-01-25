@@ -3,14 +3,14 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╔┅═┅══⟮ 🔥 ⟯══┅═┅═᳀
 ║  ☢️ ᏀᏆͲ Ꭰϴ ᏴϴͲ ☢️
 ║
-║Nome Do Bot:
-║「 Infinity Bot 」
+║Nome  Bot:
+║「 REUCHERS Bot 」
 ║
 ║Lib:
 ║「 Baileys 」
 ║
 ║Git Hub
-║「https://github.com/lzmodsoficial/infinitybot」
+║「https://github.com/timashabuddila/REUCHERS-bot」
 ║
 ║Comandos Pra Instalação:
 ║ 「 Tudo No Git Hub 」
@@ -23,11 +23,10 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║Dono:
 ║「 LZ MODS 」
 ║
-║Canal Do LZ:
-║「 https://youtube.com/channel/UCy0zGQxBX-MXDEAGY6VLJXQ 」
+║
 ║
 ╠┅═┅══⟮ 👾 ⟯══┅═┅═᳀
-║  「 ${NomeDoBot} 」
+║  「 ${Timasha} 」
 ╚┅═┅══⟮ ☔ ⟯══┅═┅═᳀
 `
 }

@@ -73,14 +73,16 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╠┅═┅══⟮ 💎 ⟯══┅═┅═᳀
 ║
 ║➤ Nome:
-║「 ${NomeDoBot} 」
+║「 ${REUCHERS} 」
 ║
 ║➤ Dono:
-║「 ${NickDoDono} 」
+║「 ${Timasha} 」
 ║
 ║➤ Numero Do Dono:
-║「 wa.me/${NumeroDoDono} 」
-║
+║「 wa.me/@94 773585511} 」
+║➤bot developer team
+║「Timasha bot developer」
+║「Lushen group manegment」
 ╚┅═┅══⟮ ☔ ⟯══┅═┅═᳀
 `
 }

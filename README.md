@@ -32,7 +32,7 @@ caso duvidas entre em contato! ( Clique Em Cima )
     
 - [Meu Grupo (Para Duvidas & Usar os Bots De La) Entrae :)](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
     
-- [Meu Zap](https://wa.me/556284944742)
+- [Meu Zap](https://wa.me/@94773585511)
 
 ----------- Area De Downloads -----------
     
